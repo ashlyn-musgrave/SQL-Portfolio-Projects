@@ -32,6 +32,6 @@ Tableau Visualization Categories:
 In this section, I practice data cleaning on the Real Estate Transaction dataset.
 
 Sample Data Cleaning Measures: 
-  - Eliminate extraneous null values
-  - Eliminate commas within addresses
-  - Delete unused columns
+  - Remove duplicates, irrelevant data, and unused coloumns
+  - Reformat property addresses 
+  - Convert date/time data types 
